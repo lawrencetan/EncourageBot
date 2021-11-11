@@ -1,5 +1,5 @@
 # EncourageBot
-Discort Bot
+Discord Bot providing inspirational quotes using API built using python 
 
 simple encourage bot to brighten up your day.
 
